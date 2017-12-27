@@ -1102,6 +1102,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/better_errors-2.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.6, ruby-2.2.2-p95) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bindata (v2.1.0, ruby-2.2.2-p95) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/bindata-2.1.0/lib" />
@@ -4016,6 +4024,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/jquery-ui-rails-6.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.1, ruby-2.2.2-p95) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, ruby-2.2.2-p95) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/json-1.8.3/ext" />
@@ -5816,6 +5832,20 @@
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/pry-stack_explorer-0.4.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="psych (v2.0.8, ruby-2.2.2-p95) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/psych/visitors" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/psych/json" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/psych/nodes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/psych/visitors" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/psych/json" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/psych/nodes" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v2.0.4, ruby-2.2.2-p95) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/public_suffix-2.0.4/lib" />
@@ -6458,6 +6488,20 @@
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/raindrops-0.14.0/archive" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, ruby-2.2.2-p95) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/rake/lib" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rake/loaders" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rake/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/rake/lib" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rake/loaders" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rake/ext" />
+      </SOURCES>
+    </library>
     <library name="rake (v11.2.2, ruby-2.2.2-p95) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/rake-11.2.2/bin" />
@@ -6620,6 +6664,30 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/rb-readline-0.5.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/rb-readline-0.5.3/bench" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.0, ruby-2.2.2-p95) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/ri" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file:///usr/local/lib/ruby/2.2.0/rdoc/ri" />
       </SOURCES>
     </library>
     <library name="realtime (v0.1.0, ruby-2.2.2-p95) [gem]">
