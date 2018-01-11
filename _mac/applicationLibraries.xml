@@ -3340,6 +3340,18 @@
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/haml-4.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="haml (v5.0.4, ruby-2.2.2-p95) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/haml-5.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/haml-5.0.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/haml-5.0.4/yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/haml-5.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/haml-5.0.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/haml-5.0.4/yard" />
+      </SOURCES>
+    </library>
     <library name="haml-rails (v0.9.0, ruby-2.2.2-p95) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/haml-rails-0.9.0/lib" />
@@ -8798,6 +8810,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/sucker_punch-2.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.8.0, ruby-2.2.2-p95) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/temple-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.2.0/gems/temple-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="terminal-table (v1.5.2, ruby-2.2.2-p95) [gem]">
