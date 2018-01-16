@@ -920,6 +920,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/haml-5.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="hamlit (v2.8.6, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/hamlit/2.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/hamlit/2.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hamlit-2.8.6/benchmark" />
+      </SOURCES>
+    </library>
     <library name="hashdiff (v0.3.2, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hashdiff-0.3.2/lib" />
