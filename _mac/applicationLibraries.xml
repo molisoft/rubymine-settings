@@ -880,6 +880,24 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/fiddle" />
       </SOURCES>
     </library>
+    <library name="font-awesome-sass (v4.7.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-4.7.0/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/font-awesome-sass-4.7.0/assets" />
+      </SOURCES>
+    </library>
+    <library name="froala-editor-sdk (v1.2.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/froala-editor-sdk-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/froala-editor-sdk-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.5.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/gem-wrappers-1.4.0/lib" />
@@ -1336,6 +1354,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mime-types-data-3.2016.0521/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mime-types-data-3.2016.0521/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_magick (v4.5.1, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_magick-4.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mini_magick-4.5.1/lib" />
       </SOURCES>
     </library>
     <library name="mini_magick (v4.7.0, RVM: ruby-2.5.0) [gem]">
@@ -3012,6 +3038,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/websocket-extensions-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="wysiwyg-rails (v2.6.6, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/wysiwyg-rails-2.6.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/wysiwyg-rails-2.6.6/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/wysiwyg-rails-2.6.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/wysiwyg-rails-2.6.6/app" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.0 [global]) [gem]">
