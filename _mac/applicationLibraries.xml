@@ -3206,6 +3206,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rest-client-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="rotp (v3.3.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rotp-3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rotp-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rotp-3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rotp-3.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rqrcode (v0.10.1, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rqrcode-0.10.1/lib" />
