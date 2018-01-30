@@ -3,15 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.haml" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.er</mask>
       <mask>`*.rb`</mask>
       <mask>``*.rb``</mask>
       <mask>```*.rb```</mask>
@@ -27,13 +20,21 @@
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>r</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
+      <mask>*.haml</mask>
+      <mask>*.ham</mask>
+      <mask>*.ha</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
-      <mask>*.ha</mask>
-      <mask>*.haml</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html*</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.h</mask>
+      <mask>*.html.haml</mask>
     </recentFileMasks>
   </component>
 </application>
