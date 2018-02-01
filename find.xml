@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
-      <mask>`*.rb`</mask>
       <mask>``*.rb``</mask>
       <mask>```*.rb```</mask>
       <mask>er</mask>
@@ -19,21 +19,22 @@
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>r</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
       <mask>*.haml</mask>
       <mask>*.ham</mask>
       <mask>*.ha</mask>
-      <mask>*</mask>
+      <mask>*.htm</mask>
+      <mask>*.html*</mask>
+      <mask>*.r</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html*</mask>
       <mask>*.html</mask>
       <mask>*.html.</mask>
       <mask>*.html.h</mask>
+      <mask>*.html.ha</mask>
       <mask>*.html.haml</mask>
+      <mask>*</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
