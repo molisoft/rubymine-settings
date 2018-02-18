@@ -318,6 +318,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/awesome_print-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="awesome_print (v1.8.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/awesome_print-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/awesome_print-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="axlsx (v2.0.1, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/axlsx-2.0.1/lib" />
@@ -908,6 +916,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/coffee-script-source-1.9.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="commander (v4.4.4, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/commander-4.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/commander-4.4.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/commander-4.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/commander-4.4.4/bin" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/concurrent-ruby-1.0.5/lib" />
@@ -1440,6 +1458,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/hashie-3.5.5/lib" />
       </SOURCES>
     </library>
+    <library name="highline (v1.7.10, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/highline-1.7.10/site" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/highline-1.7.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/highline-1.7.10/site" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/highline-1.7.10/lib" />
+      </SOURCES>
+    </library>
     <library name="hiredis (v0.6.1, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/hiredis/0.6.1" />
@@ -1488,6 +1516,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/htmlentities-4.3.4/perf" />
       </SOURCES>
     </library>
+    <library name="httmultiparty (v0.3.16, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httmultiparty-0.3.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httmultiparty-0.3.16/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.2, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/http-cookie-1.0.2/lib" />
@@ -1502,6 +1538,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/http-cookie-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.16.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/httparty-0.16.0/script" />
       </SOURCES>
     </library>
     <library name="i18n (v0.6.9, ruby-2.0.0-p648) [gem]">
@@ -1948,6 +2000,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mime-types-data-3.2016.0521/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mime-types-data-3.2016.0521/lib" />
+      </SOURCES>
+    </library>
+    <library name="mimemagic (v0.3.2, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mimemagic-0.3.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/mimemagic-0.3.2/script" />
       </SOURCES>
     </library>
     <library name="mini_magick (v4.3.3, RVM: ruby-2.5.0) [gem]">
@@ -2750,6 +2812,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/pundit-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="qcloud_cos (v0.4.2, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/qcloud_cos-0.4.2/wiki" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/qcloud_cos-0.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/qcloud_cos-0.4.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/qcloud_cos-0.4.2/wiki" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/qcloud_cos-0.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/qcloud_cos-0.4.2/bin" />
       </SOURCES>
     </library>
     <library name="qiniu (v6.8.0, RVM: ruby-2.5.0) [gem]">
