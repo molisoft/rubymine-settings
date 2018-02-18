@@ -952,6 +952,40 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/connection_pool-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="cos (v0.1.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.0/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.0/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="cos (v0.1.2, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/cos-0.1.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="cos (v0.1.2@e9fe68, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/cos-ruby-sdk-e9fe68e97d24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/cos-ruby-sdk-e9fe68e97d24/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/cos-ruby-sdk-e9fe68e97d24/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/cos-ruby-sdk-e9fe68e97d24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/cos-ruby-sdk-e9fe68e97d24/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/cos-ruby-sdk-e9fe68e97d24/example" />
+      </SOURCES>
+    </library>
     <library name="crack (v0.4.3, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/crack-0.4.3/script" />
