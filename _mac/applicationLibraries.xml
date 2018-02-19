@@ -3922,6 +3922,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/tencent_cloud_cos-805ddd3a1c8b/bin" />
       </SOURCES>
     </library>
+    <library name="tencent_cloud_cos (v0.2.0@b966a1, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/tencent_cloud_cos-b966a1910949/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/tencent_cloud_cos-b966a1910949/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/tencent_cloud_cos-b966a1910949/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/bundler/gems/tencent_cloud_cos-b966a1910949/bin" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.1.5, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/test-unit-3.1.5/lib" />
