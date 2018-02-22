@@ -284,6 +284,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/alipay-0.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="alipay (v0.15.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/alipay-0.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/alipay-0.15.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/alipay-0.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/alipay-0.15.0/bin" />
+      </SOURCES>
+    </library>
     <library name="arel (v6.0.4, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/arel-6.0.4/lib" />
