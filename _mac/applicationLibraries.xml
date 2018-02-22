@@ -376,12 +376,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-ruby-3.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="better_errors (v1.0.1, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/better_errors-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/better_errors-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="better_errors (v2.1.1, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/better_errors-2.1.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="better_errors (v2.4.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/better_errors-2.4.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/better_errors-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/better_errors-2.4.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/better_errors-2.4.0/lib" />
       </SOURCES>
     </library>
     <library name="bigdecimal (v1.2.8, ruby-2.3.3-p222) [gem]">
@@ -438,6 +456,16 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/binding_of_caller-0.7.2/ext" />
+      </SOURCES>
+    </library>
+    <library name="binding_of_caller (v0.7.3, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/binding_of_caller-0.7.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/binding_of_caller-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/binding_of_caller-0.7.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/binding_of_caller-0.7.3/lib" />
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.8.0, RVM: ruby-2.5.0) [gem]">
