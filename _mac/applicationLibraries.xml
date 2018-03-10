@@ -2154,6 +2154,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/wicked_pdf-1.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="wkhtmltopdf-binary (v0.12.3.1, rbenv: 2.4.0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/wkhtmltopdf-binary-0.12.3.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/wkhtmltopdf-binary-0.12.3.1/bin" />
+      </SOURCES>
+    </library>
     <library name="xmlrpc (v0.2.1, rbenv: 2.4.0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/bin" />
