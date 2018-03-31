@@ -838,6 +838,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/httparty-0.16.0/script" />
       </SOURCES>
     </library>
+    <library name="humanize-bytes (v2.2.0, rbenv: 2.4.0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/humanize-bytes-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/humanize-bytes-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.6.9, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/i18n-0.6.9/ci" />
