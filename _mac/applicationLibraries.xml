@@ -2416,6 +2416,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/url_safe_base64-0.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="vuejs-rails (v2.5.13, rbenv: 2.4.0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/vuejs-rails-2.5.13/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/vuejs-rails-2.5.13/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/vuejs-rails-2.5.13/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/vuejs-rails-2.5.13/vendor" />
+      </SOURCES>
+    </library>
     <library name="vultr (v0.2.2@5ede8f, rbenv: 2.4.0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/vultr.rb-5ede8f87bcda/lib" />
