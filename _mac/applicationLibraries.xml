@@ -2094,6 +2094,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.4.10/lib" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.5.1, rbenv: 2.4.0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/support" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/support" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/ext" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, rbenv: 2.4.0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/net-scp-1.2.1/lib" />
@@ -2732,6 +2746,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-3.3.5/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v4.0.1, rbenv: 2.4.0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-4.0.1/benchmarking" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-4.0.1/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-4.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-4.0.1/benchmarking" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-4.0.1/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-4.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="redis-actionpack (v5.0.2, rbenv: 2.4.0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-actionpack-5.0.2/lib" />
@@ -2784,6 +2810,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-store-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-store (v1.5.0, rbenv: 2.4.0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-store-1.5.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-store-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-store-1.5.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/redis-store-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="ref (v2.0.0, rbenv: 2.4.0 (1)) [gem]">
