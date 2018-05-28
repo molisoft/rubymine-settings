@@ -34,8 +34,8 @@
       <mask>*.html.ha</mask>
       <mask>*</mask>
       <mask>*.haml</mask>
-      <mask>*.rb</mask>
       <mask>*.html.haml</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
